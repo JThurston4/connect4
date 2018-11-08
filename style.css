@@ -1,0 +1,32 @@
+.bg {
+  background: blue;
+  height: 100vh;
+}
+
+.tall {
+  height: 100vh
+}
+
+.table {
+  height: 480px;
+  width: 560px;
+}
+
+.square {
+  height: 80px;
+  width: 80px;
+  background: rgb(121, 121, 251);
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: 1px, solid, black;
+}
+
+.circle-bg {
+  height: 55px;
+  width: 55px;
+  background: blue;
+
+  border-radius: 50%;
+}
